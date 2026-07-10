@@ -5,6 +5,7 @@
       <RouterLink to="/about" class="block hover:text-blue-600">About</RouterLink>
       <RouterLink to="/contact" class="block hover:text-blue-600">Contact</RouterLink>
       <RouterLink to="/portfolio" class="block hover:text-blue-600">Portfolio</RouterLink>
+      <RouterLink to="/users" class="block hover:text-blue-600">Data Pengguna</RouterLink>
     </nav>
   </aside>
 </template>
